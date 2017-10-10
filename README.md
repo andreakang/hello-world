@@ -11,5 +11,4 @@ Week 3: Learn about functions! Learn about conditionals!</br></br>
 Week 4: Learn about loops! Use Turtle!</br></br>
   Result/ A bunch of loop functions that draw a field of flowers. Coded in Python, draw in Turtle. </br></br>
 Week 5: Learn about P5, Javascript and connecting analog sensors to P5!</br></br>
-  Result/ We hooked up a weight scale that tells you how long it will take you to read a book (based on additional variables) </br>
-  to P5 and created a responsive infographic.
+  Result/ We hooked up a weight scale that tells you how long it will take you to read a book (based on additional variables) to P5 and created a responsive infographic.
