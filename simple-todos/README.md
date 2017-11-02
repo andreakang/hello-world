@@ -1,3 +1,6 @@
+<h4>FYI: Missing node_modules folder because it held too many files for Git to upload</h4></br>
+</br>
+
 <h2>Update 11.1.17</h2>
 
 Got through the entire demo! </br>
